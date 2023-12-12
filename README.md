@@ -13,15 +13,19 @@ PokeAPI (https://pokeapi.co/)
 # Instrucciones de Instalación
 
 Clona el repositorio:
+
 git clone https://tu-repositorio.git
 
 Navega al directorio del proyecto:
+
 cd nombre-del-proyecto
 
 Instala las dependencias:
+
 npm install
 
-Ejecutar la Aplicación
+Ejecutar la Aplicación:
+
 ionic serve
 
 Esto iniciará la aplicación en tu navegador predeterminado.
