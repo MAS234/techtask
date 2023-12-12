@@ -6,10 +6,15 @@ Lista de Pokémon con información detallada.
 Detalles incluyen habilidades, peso, altura, experiencia y nombre.
 Sistema de paginación para explorar más Pokémon.
 # Tecnologías Utilizadas
+
 Ionic React
+
 React
+
 TypeScript
+
 PokeAPI (https://pokeapi.co/)
+
 # Instrucciones de Instalación
 
 Clona el repositorio:
