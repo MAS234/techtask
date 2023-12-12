@@ -34,5 +34,4 @@ Esto iniciará la aplicación en tu navegador predeterminado.
 
 ![Captura_de_pantalla_2023-12-12_185125-removebg-preview](https://github.com/MAS234/techtask/assets/86837209/01129049-0c6f-43a5-bd78-6b6fdf444e72)
 
-![Captura_de_pantalla_2023-12-12_185146-removebg-preview](https://github.com/MAS234/techtask/assets/86837209/a5160212-72c3-4b4d-a0b7-d9355bed5f3d)
 
