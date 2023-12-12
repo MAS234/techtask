@@ -11,23 +11,17 @@ React
 TypeScript
 PokeAPI (https://pokeapi.co/)
 # Instrucciones de Instalación
+
 Clona el repositorio:
-
-bash
-Copy code
 git clone https://tu-repositorio.git
+
 Navega al directorio del proyecto:
-
-bash
-Copy code
 cd nombre-del-proyecto
-Instala las dependencias:
 
-bash
-Copy code
+Instala las dependencias:
 npm install
+
 Ejecutar la Aplicación
-bash
-Copy code
-npm start
+ionic serve
+
 Esto iniciará la aplicación en tu navegador predeterminado.
