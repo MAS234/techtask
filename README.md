@@ -1,16 +1,16 @@
-#Ionic React Pokémon App
+# Ionic React Pokémon App
 Esta aplicación utiliza Ionic React para mostrar información detallada sobre Pokémon, incluyendo sus habilidades, peso, altura, experiencia y nombre. También cuenta con un sistema de paginación para explorar más Pokémon.
 
-#Características
+# Características
 Lista de Pokémon con información detallada.
 Detalles incluyen habilidades, peso, altura, experiencia y nombre.
 Sistema de paginación para explorar más Pokémon.
-#Tecnologías Utilizadas
+# Tecnologías Utilizadas
 Ionic React
 React
 TypeScript
 PokeAPI (https://pokeapi.co/)
-#Instrucciones de Instalación
+# Instrucciones de Instalación
 Clona el repositorio:
 
 bash
